@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar&display=swap');
+*{
+    margin: 1;
+}
+.innav{
+
+display: inline;
+margin:10px;
+border-radius: 5px;
+padding: 2px;
+font-weight: 100;
+font-family: 'Sigmar', cursive;;
+}
+.innav:hover{
+    background-color: aquamarine;
+    
+}
+
+
+#nav{
+height: 29px;
+background-color: #219ebc;
+padding-top: 6px;
+text-align: end;
+border-radius: 5px;
+}
+
+#navbox{
+    float: left;
+    margin-right: 10;
+    border-radius: 7px;
+    background-color:#bde0fe;
+    width: 290;
+}
+#la{
+    float: left;
+    margin-right: 5px;
+    margin-left: 10;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight:bold;
+}
+
+#up{
+background-color:#00476b;
+text-align: center;
+font-family: 'Sigmar', cursive;
+letter-spacing: 8px;
+text-transform: capitalize;
+text-shadow: 4 px 3px  rgb(19, 1, 1);
+color: rgb(207, 255, 255);
+text-shadow: 4px 5px black;
+
+}
