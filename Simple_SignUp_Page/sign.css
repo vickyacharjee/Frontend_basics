@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.inbox{
+position: relative;
+left: 40%;
+top: 200;
+display: inline-block;
+background-color: rgb(194, 236, 236);
+padding: 35px;
+box-shadow: 5px 8px #888888;
+border-radius: 10px;
+
+
+}
+.outbox{
+    background-color: rgb(36, 247, 247);
+    height: 100%;
+    width: 100%;
+    
+}
+
+.lb{
+    font-size:x-large;
+    font-family: sans-serif;
+    font-weight: 600;
+    
+}
+.in{
+    width: 240;
+    height: 30;
+    border-radius: 6px;
+    box-shadow: 1px 1px;
+}
+.in:hover{
+background-color: rgb(221, 240, 245);
+
+
+}
+#submit{
+    background-color: 4361ee;
+    color: aliceblue;
+    cursor: pointer;
+    font-size: larger;
+}
+#submit:hover{
+    background-color:3a0ca3 ;
+}
+#login{
+    font-size:20;
+}
